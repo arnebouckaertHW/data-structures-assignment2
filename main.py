@@ -18,8 +18,6 @@ def main(list1, list2):
             print(list1)
             print(list2)
             return
-        else:
-            i += 1
     
     print("Two lists are strictly identical!")
     print(list1)
